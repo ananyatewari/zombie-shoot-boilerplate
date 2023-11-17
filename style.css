@@ -68,7 +68,7 @@ body {
 }
 
 #lives {
-    z-index: 2;
+    z-index: 12;
     width: 50%;
     height: 25px;
     border-radius: 17px;
